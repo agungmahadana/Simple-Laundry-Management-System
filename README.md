@@ -21,7 +21,7 @@ Use the `README.md` to get started.
 
 1. Clone the repo
    ```sh
-   https://github.com/agungmahadana/Image-Processing.git
+   https://github.com/agungmahadana/Simple-Laundry-Management-System.git
    ```
 2. Import the database schema from the database.sql file
 3. Start a local server and navigate to the website
